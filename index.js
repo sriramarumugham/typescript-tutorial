@@ -1,1 +1,0 @@
-// TypeScritp tutorial/
