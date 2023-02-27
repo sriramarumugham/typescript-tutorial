@@ -30,7 +30,7 @@ Therea are many types in js
 8) Array
 9) Tuples
 10) More other types...
-11) Any (Not sure Whether to use it or not )
+11) Any (Not sure Whether to use it or not ) 
 12) Never 
 13) Unknows
 
