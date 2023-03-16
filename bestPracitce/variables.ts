@@ -1,4 +1,4 @@
-//typescirpt usage
+//typescirpt best practices
 
 let num:number=123;
 //can access the methods of number only not string;
